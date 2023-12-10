@@ -4,14 +4,31 @@
 }
 
 h1 {
-    border: 2px solid white;
+    
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
     margin: 0;
+    text-decoration-line: underline;
+}
+
+h2 {
+    text-decoration-line: underline;
 }
 
 input {
     background-color: white;
     color: black;
+}
+
+.noteItem {
+    border: 2px solid white;;
+    margin: 20px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    margin: 5px;
 }
