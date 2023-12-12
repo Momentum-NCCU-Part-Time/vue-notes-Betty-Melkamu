@@ -14,6 +14,11 @@ h1 {
 
 h2 {
     text-decoration-line: underline;
+    padding-left: 10px;
+}
+
+p {
+    padding-left: 10px;
 }
 
 input {
@@ -22,7 +27,8 @@ input {
 }
 
 .noteItem {
-    border: 2px solid white;;
+    border: 2px solid white;
+    border-radius: 10px;
     margin: 20px;
 }
 
