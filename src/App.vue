@@ -1,6 +1,7 @@
 <script setup>
 import { ref } from "vue";
 import Note from "./assets/components/note.vue";
+import noteForm from "./assets/components/noteForm.vue";
 const notesList = ref([]);
 
 fetch("http://localhost:3000/notes/", {
