@@ -2,8 +2,32 @@
   "notes": [
     {
       "id": 1,
-      "title": "Sample note",
-      "body": "This is the body of my note",
+      "title": "Sample note 1",
+      "body": "Almost there!",
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Sample note 2",
+      "body": "Almost there!",
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Sample note 3",
+      "body": "Almost there!",
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Sample note 4",
+      "body": "Almost there!",
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "Sample note 5",
+      "body": "Almost there!",
       "updatedAt": "2018-01-01T00:00:00.000Z"
     }
   ]
